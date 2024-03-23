@@ -1,2 +1,2 @@
 # hello-world
-This repository is for find the job
+This repository is for learn more about web develop
